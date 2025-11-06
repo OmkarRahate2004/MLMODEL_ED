@@ -1,4 +1,4 @@
-#!/workspaces/MLMODEL_ED/.venv/bin/python
+#!/workspaces/MLMODEL_ED/.venv/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys

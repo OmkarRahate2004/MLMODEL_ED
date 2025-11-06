@@ -1,4 +1,1 @@
-python>=3.11.9
-pip>=23.2
-setuptools>=68.0
-wheel>=0.41
+python-3.11.14
